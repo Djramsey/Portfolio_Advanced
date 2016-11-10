@@ -2,6 +2,7 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color:black;
 }
 
 a{
@@ -83,6 +84,7 @@ a{
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    background-color:#5DBCD2;
   }
   .img-rounded{
     height:140px;
@@ -95,3 +97,11 @@ a{
   }
 
 }
+
+
+
+
+
+
+
+
